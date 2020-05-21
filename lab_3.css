@@ -1,0 +1,49 @@
+ul {list-style-type: none;}
+body {
+    font-family: Verdana, sans-serif;
+    background: white;
+    color: black;
+}
+
+
+/* Weekdays (Mon-Sun) */
+.weekdays {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.weekdays li {
+    display: inline-block;
+    width: 13.9%;
+}
+
+.days {
+    padding: 10px 0;
+    text-align: center;
+}
+
+.days li {
+    display: inline-block;
+    width: 14%;
+    text-align: center;
+    font-size:12px;
+    height: 80px;
+    margin: -2px;
+    outline: 1px solid rgb(192,192,192);
+}
+
+.color_hol{
+    color: #777;
+}
+
+#hol{
+    background: #eee;
+}
+
+.Aug{
+    color:rgb(192,192,192);
+}
+
+.Rus{
+    color: red;
+}
